@@ -10,7 +10,7 @@
 <p>School: ASP</p>
 <p>Grade: Grade 6</p>
 
-logo: legon_screenshots.jpg
+logo: legond_screenshots.jpg
 
 <h1>My Goals</h1>
 <p>Makeing a robot by VEX IQ</p>
