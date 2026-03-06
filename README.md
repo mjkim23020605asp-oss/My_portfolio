@@ -1,6 +1,8 @@
 <html>
 <body>
 
+<body style="background-color:powderblue;">
+
 <h1>Greg's portfolio</h1>
 <p>This portfolio shows the progress that we made in engineering and technology class.</p>
 
@@ -16,5 +18,7 @@
 
 <h1>My best work</h1>
 <p>Comming soon</p>
+
+
 </body>
 </html>
